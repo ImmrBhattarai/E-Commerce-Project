@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Windows 11 Home Edition (1-Year Digital License)",
+        "description": "Note: Product/License Keys are delivered by email within the 24 hours of the successful order submission.",
+        "price": 20.0,
+        "image_url": "https://diostorage.blob.core.windows.net/photos/96551db1-eb02-44f4-94fc-fe1bc64e0c65.jpg"
+    },
+    {
+        "name": "Windows 11 Home Edition (1-Year Digital License)",
+        "description": "Note: Product/License Keys are delivered by email within the 24 hours of the successful order submission.",
+        "price": 20.0,
+        "image_url": "https://diostorage.blob.core.windows.net/photos/194937a8-8c56-481a-aeeb-1ff550b41faa.jpg"
+    },
+    {
+        "name": "Windows 11 digital lisence",
+        "description": "yes genuine 1 year",
+        "price": 20.0,
+        "image_url": "https://diostorage.blob.core.windows.net/photos/d8ccdef6-ada3-4137-b171-69c6fefe8600.jpg"
+    },
+    {
+        "name": "Windows 11 Digital License 1 year",
+        "description": "Windows activation key (retail)",
+        "price": 20.0,
+        "image_url": "https://diostorage.blob.core.windows.net/photos/15748cd5-247a-484a-8cce-bc71737c4f9d.jpg"
+    },
+    {
+        "name": "Windows 11 Digital License 1 year",
+        "description": "Windows activation key (retail)",
+        "price": 20.0,
+        "image_url": "https://diostorage.blob.core.windows.net/photos/0b7c8c50-ca3f-4b94-a9bf-8ae4e5b4c91f.jpg"
+    },
+    {
+        "name": "Test Product",
+        "description": "Do Not Place Order",
+        "price": 0.0,
+        "image_url": "https://diostorage.blob.core.windows.net/photos/25b602c4-b97e-4f78-93c6-d57f877900c1.jpg"
+    }
+]
